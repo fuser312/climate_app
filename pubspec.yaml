@@ -16,5 +16,10 @@ dev_dependencies:
     sdk: flutter
 
 flutter:
-
+  fonts:
+    - family: Spartan
+      fonts:
+        - asset: fonts/SpartanMB-Regular.otf
   uses-material-design: true
+  assets:
+    - assets/
